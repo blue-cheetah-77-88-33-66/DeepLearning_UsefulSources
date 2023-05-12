@@ -1,2 +1,2 @@
-# deepleraning_useful_sources
-Useful Sources of Deep Learning
+# deeplearning_useful_sources (UNDER CONSTRUCTION)
+Useful Sources for Deep Learning 
