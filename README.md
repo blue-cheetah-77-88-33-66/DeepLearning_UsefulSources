@@ -1,7 +1,7 @@
 # DeepLearning_UsefulSources (UNDER CONSTRUCTION)
 Useful Sources for Deep Learning 
 
-<h2>Main Topics in DEEP LEARNING</h2>
+<h2>Main Topics of DEEP LEARNING</h2>
 
 <h3>Part I: Applied Math and Machine Learning Basics</h3>
 
